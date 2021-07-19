@@ -15,7 +15,7 @@ request <- list(
             "09", "10", "11", "12"),
   year = "2020",
   dataset_short_name = "reanalysis-era5-single-levels-monthly-means",
-  target = "drink_rub.nc"
+  target = "uv_temp.nc"
 )
 
 # requires preset credentials using
