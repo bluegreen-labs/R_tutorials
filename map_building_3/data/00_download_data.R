@@ -2,8 +2,7 @@
 library(ecmwfr)
 
 # the request to be made to grab the
-# required precip, total monthly precip
-# and the fraction of large events
+# required monthly data
 request <- list(
   format = "netcdf",
   product_type = "monthly_averaged_reanalysis",
