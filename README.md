@@ -1,5 +1,9 @@
-# R tutorials
+# R tutorials in processing and visualization of environmental data 
 
-This repository holds all our worked examples from our blog post (series). Keep an eye on this space via github or follow our blog to find the latest entries.
+This is a repository containing all tutorials as highlighted in our [blog](https://bluegreenlabs.org/categories/tutorial/). The code is well annotated but for more context we refer to our blog posts.
 
-In general the code will be well commented, but for more context we refer to our [blog](https://bluegreen.ai/post/).
+## How to cite these code snippets in your article
+
+You can cite this code as "We used processing / vizualization as outlined in Hufkens & Kearsley (2022)". With the following bibliographic reference to include in your reference list:
+
+    Hufkens, K. & E. Kearsley. (2022). (Version v1.2.0). R tutorials in processing and visualization of environmental data. Zenodo. http://doi.org/xxx. 
