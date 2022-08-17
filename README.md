@@ -6,4 +6,4 @@ This is a repository containing all tutorials as highlighted in our [blog](https
 
 You can cite this code as "We used processing / vizualization as outlined in Hufkens & Kearsley (2022)". With the following bibliographic reference to include in your reference list:
 
-    Hufkens, K. & E. Kearsley. (2022). (Version v1.2.0). R tutorials in processing and visualization of environmental data. Zenodo. http://doi.org/xxx. 
+> Hufkens, K. & E. Kearsley. (2022). (Version v1.2.0). R tutorials in processing and visualization of environmental data. Zenodo. http://doi.org/xxx. 
